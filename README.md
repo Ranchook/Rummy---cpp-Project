@@ -16,9 +16,9 @@ A set must be at least 3 cards.
 
 A legal set must be one of the following:
 
-2. An increasing series of cards from the same set (for example: 2,3,4 of diamond).
+1. An increasing series of cards from the same set (for example: 2,3,4 of diamond).
 
-3. A series of cards with the same value but from different sets (2 of diamond, clubs and hearts).
+2. A series of cards with the same value but from different sets (2 of diamond, clubs and hearts).
 
 project structure:
 
