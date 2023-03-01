@@ -12,9 +12,9 @@ In his (or hers) respective turn, a player can quit the game, draw the first car
 At the end of his turn, if the all the sets on the board are legal, a player must throw a card to the trash stack.
 If there is an illegal set on the board the game rollbacks to its original state.
 
+A set must be at least 3 cards.
 A legal set must be one of the following:
-1. A set must be at least 3 cards.
-2. An increasing series of cards from the same set (for example: 2,3,4,5 of diamond).
+2. An increasing series of cards from the same set (for example: 2,3,4 of diamond).
 3. A series of cards with the same value but from different sets (2 of diamond, clubs and hearts).
 
 project structure:
